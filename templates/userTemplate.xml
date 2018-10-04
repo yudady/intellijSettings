@@ -1,0 +1,31 @@
+<templateSet group="userTemplate">
+  <template name="log" value="log.debug(&quot;[LOG] $LOG$&#9;= 【&quot; + $LOG$ + &quot;】&quot;);" description="log.debug" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="logj" value="$.log($LOG$);" description="log-js" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jdk8" value="&lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;&#10;&lt;project.reporting.outputEncoding&gt;UTF-8&lt;/project.reporting.outputEncoding&gt;&#10;&lt;maven.compiler.source&gt;1.8&lt;/maven.compiler.source&gt;&#10;&lt;maven.compiler.target&gt;1.8&lt;/maven.compiler.target&gt;&#10;&lt;java.version&gt;1.8&lt;/java.version&gt;" description="pom" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="logger.debug(&quot;$LOG$ =&gt; {} &quot;, $LOG$);" description="slf4j" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="slf4j" value="protected final Logger logger = LoggerFactory.getLogger(this.getClass());" description="slf4j-declare" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

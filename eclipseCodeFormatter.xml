@@ -1,0 +1,16 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1519991786278" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="D:/zonvan/zonvan.xml" />
+          <option name="pathToEclipse" value="D:/zonvan/coding/myPay" />
+          <option name="selectedJavaProfile" value="Neutec 1.0" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
