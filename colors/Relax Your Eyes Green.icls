@@ -1,7 +1,8 @@
 <scheme name="Relax Your Eyes Green" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Courier New" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_ROW_COLOR" value="a4c1dc" />
     <option name="CONSOLE_BACKGROUND_KEY" value="cce8cf" />
