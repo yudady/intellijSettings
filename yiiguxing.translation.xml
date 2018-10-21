@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Collectors" />
+      <item value="Widget" />
+      <item value="confined" />
+      <item value="* &lt;li&gt;The first argument passed to the accumulator function, both * arguments passed to the combiner function, and the argument passed to the * finisher function must be the result of a previous invocation of the * result supplier, accumulator, or combiner functions.&lt;/li&gt;" />
+      <item value="accumulated" />
+      <item value="associativity" />
+      <item value="identity" />
+      <item value="accumulates" />
+      <item value="mutable reduction operation" />
+      <item value="mutable" />
+      <item value="A &lt;a href=&quot;package-summary.html#Reduction&quot;&gt;mutable reduction operation&lt;/a&gt; that * accumulates input elements into a mutable result container, optionally transforming * the accumulated result into a final representation after all input elements * have been processed. Reduction operations can be performed either sequentially * or in parallel." />
+      <item value="* A &lt;a href=&quot;package-summary.html#Reduction&quot;&gt;mutable reduction operation&lt;/a&gt; that * accumulates input elements into a mutable result container, optionally transforming * the accumulated result into a final representation after all input elements * have been processed. Reduction operations can be performed either sequentially * or in parallel." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE_TRADITIONAL" value="15" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
