@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="* @param predicate a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt;non-interfering&lt;/a&gt;, * &lt;a href=&quot;package-summary.html#Statelessness&quot;&gt;stateless&lt;/a&gt; * predicate to apply to each element to determine if it * should be included" />
+      <item value="Base Stream" />
+      <item value="Stream" />
+      <item value="TranslationPlugin" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE_TRADITIONAL" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
