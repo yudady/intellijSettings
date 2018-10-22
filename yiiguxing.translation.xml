@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="representing" />
+      <item value="example" />
       <item value="spliterator" />
       <item value="Collectors" />
       <item value="Widget" />
@@ -17,13 +19,18 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="17" />
-        <entry key="CHINESE_TRADITIONAL" value="16" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE_TRADITIONAL" value="18" />
         <entry key="CROATIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
