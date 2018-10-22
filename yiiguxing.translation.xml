@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spliterator" />
       <item value="Collectors" />
       <item value="Widget" />
       <item value="confined" />
@@ -16,8 +17,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
-        <entry key="CHINESE_TRADITIONAL" value="15" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE_TRADITIONAL" value="16" />
+        <entry key="CROATIAN" value="1" />
       </map>
     </option>
   </component>
