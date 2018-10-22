@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Of Int" />
+      <item value="* Characteristic value signifying that an encounter order is defined for * elements. If so, this Spliterator guarantees that method * {@link #trySplit} splits a strict prefix of elements, that method * {@link #tryAdvance} steps by one element in prefix order, and that * {@link #forEachRemaining} performs actions in encounter order." />
+      <item value="* Characteristic value signifying that an encounter order is defined for * elements. If so, this Spliterator guarantees that method * {@link #trySplit} splits a strict prefix of elements, that method * {@link #tryAdvance} steps by one element in prefix order, and that * {@link #forEachRemaining} performs actions in encounter order. * * &lt;p&gt;A {@link Collection} has an encounter order if the corresponding * {@link Collection#iterator} documents an order. If so, the encounter * order is the same as the documented order. Otherwise, a collection does * not have an encounter order. * * @apiNote Encounter order is guaranteed to be ascending index order for * any {@link List}. But no order is guaranteed for hash-based collections * such as {@link HashSet}. Clients of a Spliterator that reports * {@code ORDERED} are expected to preserve ordering constraints in * non-commutative parallel computations. */" />
+      <item value="* &lt;p&gt;Unless this Spliterator covers an infinite number of elements, * repeated calls to {@code trySplit()} must eventually return {@code null}. * Upon non-null return:" />
+      <item value="* If this spliterator can be partitioned, returns a Spliterator * covering elements, that will, upon return from this method, not * be covered by this Spliterator." />
+      <item value="exclusively" />
+      <item value="manipulate" />
+      <item value="contrast" />
+      <item value="restrictions" />
+      <item value="primitive" />
+      <item value="stream" />
       <item value="representing" />
       <item value="example" />
       <item value="spliterator" />
@@ -19,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="CHINESE_TRADITIONAL" value="18" />
+        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE_TRADITIONAL" value="29" />
         <entry key="CROATIAN" value="1" />
       </map>
     </option>
