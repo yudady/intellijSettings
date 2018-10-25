@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TYPE SCROLL INSENSITIVE" />
+      <item value="automatically" />
+      <item value="* &lt;P&gt;Applications no longer need to explicitly load JDBC drivers using &lt;code&gt;Class.forName()&lt;/code&gt;. Existing programs * which currently load JDBC drivers using &lt;code&gt;Class.forName()&lt;/code&gt; will continue to work without * modification. *" />
+      <item value="Applications no longer need to explicitly load JDBC drivers using" />
+      <item value="action" />
       <item value="* @param predicate a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt;non-interfering&lt;/a&gt;, * &lt;a href=&quot;package-summary.html#Statelessness&quot;&gt;stateless&lt;/a&gt; * predicate to apply to each element to determine if it * should be included" />
       <item value="Base Stream" />
       <item value="Stream" />
@@ -8,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE_TRADITIONAL" value="9" />
       </map>
     </option>
   </component>
