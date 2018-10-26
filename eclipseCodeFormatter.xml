@@ -4,15 +4,13 @@
       <list>
         <Settings>
           <option name="enableJSFormatting" value="true" />
-          <option name="enableJSProcessor" value="true" />
-          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1519991786278" />
           <option name="name" value="default" />
           <option name="pathToConfigFileJS" value="D:/zonvan/zonvan.xml" />
           <option name="pathToConfigFileJava" value="D:/zonvan/zonvan.xml" />
           <option name="pathToEclipse" value="D:/zonvan/coding/myPay" />
           <option name="selectedJavaProfile" value="Neutec 1.0" />
-          <option name="selectedJavaScriptProfile" value="Neutec 1.0" />
+          <option name="selectedJavaScriptProfile" value="CommonFormatter" />
         </Settings>
       </list>
     </option>
