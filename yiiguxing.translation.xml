@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encapsulating" />
       <item value="Of Int" />
       <item value="* Characteristic value signifying that an encounter order is defined for * elements. If so, this Spliterator guarantees that method * {@link #trySplit} splits a strict prefix of elements, that method * {@link #tryAdvance} steps by one element in prefix order, and that * {@link #forEachRemaining} performs actions in encounter order." />
       <item value="* Characteristic value signifying that an encounter order is defined for * elements. If so, this Spliterator guarantees that method * {@link #trySplit} splits a strict prefix of elements, that method * {@link #tryAdvance} steps by one element in prefix order, and that * {@link #forEachRemaining} performs actions in encounter order. * * &lt;p&gt;A {@link Collection} has an encounter order if the corresponding * {@link Collection#iterator} documents an order. If so, the encounter * order is the same as the documented order. Otherwise, a collection does * not have an encounter order. * * @apiNote Encounter order is guaranteed to be ascending index order for * any {@link List}. But no order is guaranteed for hash-based collections * such as {@link HashSet}. Clients of a Spliterator that reports * {@code ORDERED} are expected to preserve ordering constraints in * non-commutative parallel computations. */" />
@@ -30,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="31" />
-        <entry key="CHINESE_TRADITIONAL" value="29" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE_TRADITIONAL" value="30" />
         <entry key="CROATIAN" value="1" />
       </map>
     </option>
