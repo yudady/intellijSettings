@@ -1,36 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="representing" />
-      <item value="example" />
-      <item value="spliterator" />
-      <item value="Collectors" />
-      <item value="Widget" />
-      <item value="confined" />
-      <item value="* &lt;li&gt;The first argument passed to the accumulator function, both * arguments passed to the combiner function, and the argument passed to the * finisher function must be the result of a previous invocation of the * result supplier, accumulator, or combiner functions.&lt;/li&gt;" />
-      <item value="accumulated" />
-      <item value="associativity" />
-      <item value="identity" />
-      <item value="accumulates" />
-      <item value="mutable reduction operation" />
-      <item value="mutable" />
-      <item value="A &lt;a href=&quot;package-summary.html#Reduction&quot;&gt;mutable reduction operation&lt;/a&gt; that * accumulates input elements into a mutable result container, optionally transforming * the accumulated result into a final representation after all input elements * have been processed. Reduction operations can be performed either sequentially * or in parallel." />
-      <item value="* A &lt;a href=&quot;package-summary.html#Reduction&quot;&gt;mutable reduction operation&lt;/a&gt; that * accumulates input elements into a mutable result container, optionally transforming * the accumulated result into a final representation after all input elements * have been processed. Reduction operations can be performed either sequentially * or in parallel." />
+      <item value="TYPE SCROLL INSENSITIVE" />
+      <item value="automatically" />
+      <item value="* &lt;P&gt;Applications no longer need to explicitly load JDBC drivers using &lt;code&gt;Class.forName()&lt;/code&gt;. Existing programs * which currently load JDBC drivers using &lt;code&gt;Class.forName()&lt;/code&gt; will continue to work without * modification. *" />
+      <item value="Applications no longer need to explicitly load JDBC drivers using" />
+      <item value="action" />
+      <item value="* @param predicate a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt;non-interfering&lt;/a&gt;, * &lt;a href=&quot;package-summary.html#Statelessness&quot;&gt;stateless&lt;/a&gt; * predicate to apply to each element to determine if it * should be included" />
+      <item value="Base Stream" />
+      <item value="Stream" />
+      <item value="TranslationPlugin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="CHINESE_TRADITIONAL" value="18" />
-        <entry key="CROATIAN" value="1" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE_TRADITIONAL" value="9" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
