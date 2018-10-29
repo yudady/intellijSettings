@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="during a particular invocation of the virtual * machine." />
       <item value="rendezvous" />
       <item value="* Instantiate the javaBean named as a * child of this &lt;code&gt;BeanContext&lt;/code&gt;. * The implementation of the JavaBean is * derived from the value of the beanName parameter, * and is defined by the * &lt;code&gt;java.beans.Beans.instantiate()&lt;/code&gt; method. *" />
       <item value="Retains" />
@@ -34,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="35" />
-        <entry key="CHINESE_TRADITIONAL" value="33" />
+        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE_TRADITIONAL" value="34" />
         <entry key="CROATIAN" value="1" />
       </map>
     </option>
