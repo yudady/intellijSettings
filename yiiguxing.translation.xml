@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Model" />
+      <item value="model" />
+      <item value="System" />
+      <item value="quickly" />
       <item value="existence" />
       <item value="accurate" />
       <item value="underlying" />
@@ -42,13 +46,18 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="42" />
-        <entry key="CHINESE_TRADITIONAL" value="40" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE_TRADITIONAL" value="42" />
         <entry key="CROATIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
