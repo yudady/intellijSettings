@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Model" />
       <item value="model" />
+      <item value="Model" />
       <item value="System" />
       <item value="quickly" />
       <item value="existence" />
@@ -46,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="47" />
-        <entry key="CHINESE_TRADITIONAL" value="42" />
+        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE_TRADITIONAL" value="43" />
         <entry key="CROATIAN" value="1" />
       </map>
     </option>
