@@ -382,7 +382,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'SportsDataServiceApp'</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SportsDataServiceApp...'">
@@ -566,7 +566,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SportsDataServiceApp'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'myCenter'">
