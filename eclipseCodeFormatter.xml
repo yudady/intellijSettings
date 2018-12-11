@@ -4,6 +4,7 @@
       <list>
         <Settings>
           <option name="enableJSFormatting" value="true" />
+          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1519991786278" />
           <option name="name" value="default" />
           <option name="pathToConfigFileJS" value="D:/zonvan/zonvan.xml" />
