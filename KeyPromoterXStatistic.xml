@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>702</Count>
+          <Count>708</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -471,14 +471,6 @@
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>13</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityLogBOTest.testSelect2'">
@@ -1205,6 +1197,14 @@
         <Item>
           <IdeaActionID>ActivateJRebelToolWindow</IdeaActionID>
           <Description>JRebel</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findAll()'">
