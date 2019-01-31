@@ -1,4 +1,8 @@
 <code_scheme name="Default">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="150" />
+  <codeStyleSettings language="JAVA">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
+  </codeStyleSettings>
 </code_scheme>
